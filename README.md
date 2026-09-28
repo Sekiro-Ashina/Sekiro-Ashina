@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sekiro-Ashina (Real Name: Aditya Raj)
-- 👀 I’m interested in Ai,Ml,Deep,CV,LLM
+- 👀 I’m interested in Ai,Ml,DL,AI agents,LLM
 - 🌱 I’m currently learning Web Dev,AI&ML,DSA
 - 💞️ I’m looking to collaborate on Web Dev, Product that solves real world pain
 - 📫 How to reach me (email||adityaninja04@gmail.com)(linkedin||https://www.linkedin.com/in/aditya-raj-5359a4203/)
